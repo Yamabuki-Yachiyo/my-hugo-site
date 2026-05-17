@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>矩阵的指数幂 on 少女发病记录</title>
+    <link>http://localhost:1313/tags/%E7%9F%A9%E9%98%B5%E7%9A%84%E6%8C%87%E6%95%B0%E5%B9%82/</link>
+    <description>Recent content from 少女发病记录</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    
+    <managingEditor>xxx@example.com (Yamabuki-Yachiyo)</managingEditor>
+    <webMaster>xxx@example.com (Yamabuki-Yachiyo)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0800</lastBuildDate>
+    
+    
+    <atom:link href="http://localhost:1313/tags/%E7%9F%A9%E9%98%B5%E7%9A%84%E6%8C%87%E6%95%B0%E5%B9%82/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>线性代数-22.微分方程-矩阵的指数幂</title>
+      <link>http://localhost:1313/post/linear_algebra/22/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Yamabuki-Yachiyo)</author>
+      <guid>http://localhost:1313/post/linear_algebra/22/</guid>
+      <description>
+        <![CDATA[<h1>线性代数-22.微分方程-矩阵的指数幂</h1><p>作者：Yamabuki-Yachiyo（xxx@example.com）</p>
+        
+          线性代数-微分方程-矩阵的指数幂
+        
+        <hr><p>本文2026-05-13首发于<a href='http://localhost:1313/'>少女发病记录</a>，最后修改于2026-05-13</p>]]>
+      </description>
+      
+        <category>线性代数</category>
+      
+    </item>
+    
+  </channel>
+</rss>

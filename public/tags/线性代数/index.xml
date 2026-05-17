@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>线性代数 on 少女发病记录</title>
+    <link>http://localhost:1313/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</link>
+    <description>Recent content from 少女发病记录</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    
+    <managingEditor>xxx@example.com (Yamabuki-Yachiyo)</managingEditor>
+    <webMaster>xxx@example.com (Yamabuki-Yachiyo)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Sat, 16 May 2026 00:00:00 +0800</lastBuildDate>
+    
+    
+    <atom:link href="http://localhost:1313/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>线性代数-26.正定矩阵-最小值</title>
+      <link>http://localhost:1313/post/linear_algebra/26/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Yamabuki-Yachiyo)</author>
+      <guid>http://localhost:1313/post/linear_algebra/26/</guid>
+      <description>
+        <![CDATA[<h1>线性代数-26.正定矩阵-最小值</h1><p>作者：Yamabuki-Yachiyo（xxx@example.com）</p>
+        
+          线性代数-正定矩阵-最小值
+        
+        <hr><p>本文2026-05-16首发于<a href='http://localhost:1313/'>少女发病记录</a>，最后修改于2026-05-16</p>]]>
+      </description>
+      
+        <category>线性代数</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>线性代数-25.复数矩阵-傅里叶变换矩阵</title>
+      <link>http://localhost:1313/post/linear_algebra/25/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Yamabuki-Yachiyo)</author>
+      <guid>http://localhost:1313/post/linear_algebra/25/</guid>
+      <description>
+        <![CDATA[<h1>线性代数-25.复数矩阵-傅里叶变换矩阵</h1><p>作者：Yamabuki-Yachiyo（xxx@example.com）</p>
+        
+          线性代数-复数矩阵-傅里叶变换矩阵
+        
+        <hr><p>本文2026-05-16首发于<a href='http://localhost:1313/'>少女发病记录</a>，最后修改于2026-05-16</p>]]>
+      </description>
+      
+        <category>线性代数</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>线性代数-24.对称矩阵-正定性</title>
+      <link>http://localhost:1313/post/linear_algebra/24./</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Yamabuki-Yachiyo)</author>
+      <guid>http://localhost:1313/post/linear_algebra/24./</guid>
+      <description>
+        <![CDATA[<h1>线性代数-24.对称矩阵-正定性</h1><p>作者：Yamabuki-Yachiyo（xxx@example.com）</p>
+        
+          线性代数-对称矩阵-正定性
+        
+        <hr><p>本文2026-05-16首发于<a href='http://localhost:1313/'>少女发病记录</a>，最后修改于2026-05-16</p>]]>
+      </description>
+      
+        <category>线性代数</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>线性代数-23.马尔科夫矩阵-傅里叶级数</title>
+      <link>http://localhost:1313/post/linear_algebra/23/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Yamabuki-Yachiyo)</author>
+      <guid>http://localhost:1313/post/linear_algebra/23/</guid>
+      <description>
+        <![CDATA[<h1>线性代数-23.马尔科夫矩阵-傅里叶级数</h1><p>作者：Yamabuki-Yachiyo（xxx@example.com）</p>
+        
+          线性代数-马尔科夫矩阵-傅里叶级数
+        
+        <hr><p>本文2026-05-16首发于<a href='http://localhost:1313/'>少女发病记录</a>，最后修改于2026-05-16</p>]]>
+      </description>
+      
+        <category>线性代数</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>线性代数-20.特征值-特征向量</title>
+      <link>http://localhost:1313/post/linear_algebra/20/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Yamabuki-Yachiyo)</author>
+      <guid>http://localhost:1313/post/linear_algebra/20/</guid>
+      <description>
+        <![CDATA[<h1>线性代数-20.特征值-特征向量</h1><p>作者：Yamabuki-Yachiyo（xxx@example.com）</p>
+        
+          线性代数-特征值-特征向量
+        
+        <hr><p>本文2026-05-12首发于<a href='http://localhost:1313/'>少女发病记录</a>，最后修改于2026-05-13</p>]]>
+      </description>
+      
+        <category>线性代数</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>线性代数-22.微分方程-矩阵的指数幂</title>
+      <link>http://localhost:1313/post/linear_algebra/22/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Yamabuki-Yachiyo)</author>
+      <guid>http://localhost:1313/post/linear_algebra/22/</guid>
+      <description>
+        <![CDATA[<h1>线性代数-22.微分方程-矩阵的指数幂</h1><p>作者：Yamabuki-Yachiyo（xxx@example.com）</p>
+        
+          线性代数-微分方程-矩阵的指数幂
+        
+        <hr><p>本文2026-05-13首发于<a href='http://localhost:1313/'>少女发病记录</a>，最后修改于2026-05-13</p>]]>
+      </description>
+      
+        <category>线性代数</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>线性代数-21.对角化-矩阵的幂</title>
+      <link>http://localhost:1313/post/linear_algebra/21/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Yamabuki-Yachiyo)</author>
+      <guid>http://localhost:1313/post/linear_algebra/21/</guid>
+      <description>
+        <![CDATA[<h1>线性代数-21.对角化-矩阵的幂</h1><p>作者：Yamabuki-Yachiyo（xxx@example.com）</p>
+        
+          线性代数-对角化-矩阵的幂
+        
+        <hr><p>本文2026-05-13首发于<a href='http://localhost:1313/'>少女发病记录</a>，最后修改于2026-05-13</p>]]>
+      </description>
+      
+        <category>线性代数</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>线性代数-18.行列式公式-代数余子式</title>
+      <link>http://localhost:1313/post/linear_algebra/18/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Yamabuki-Yachiyo)</author>
+      <guid>http://localhost:1313/post/linear_algebra/18/</guid>
+      <description>
+        <![CDATA[<h1>线性代数-18.行列式公式-代数余子式</h1><p>作者：Yamabuki-Yachiyo（xxx@example.com）</p>
+        
+          线性代数-行列式公式-代数余子式
+        
+        <hr><p>本文2026-05-11首发于<a href='http://localhost:1313/'>少女发病记录</a>，最后修改于2026-05-12</p>]]>
+      </description>
+      
+        <category>线性代数</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>线性代数-19.克拉默法则-逆矩阵-体积</title>
+      <link>http://localhost:1313/post/linear_algebra/19/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Yamabuki-Yachiyo)</author>
+      <guid>http://localhost:1313/post/linear_algebra/19/</guid>
+      <description>
+        <![CDATA[<h1>线性代数-19.克拉默法则-逆矩阵-体积</h1><p>作者：Yamabuki-Yachiyo（xxx@example.com）</p>
+        
+          线性代数-克拉默法则-逆矩阵-体积
+        
+        <hr><p>本文2026-05-12首发于<a href='http://localhost:1313/'>少女发病记录</a>，最后修改于2026-05-12</p>]]>
+      </description>
+      
+        <category>线性代数</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>线性代数-17.行列式及其性质</title>
+      <link>http://localhost:1313/post/linear_algebra/17/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Yamabuki-Yachiyo)</author>
+      <guid>http://localhost:1313/post/linear_algebra/17/</guid>
+      <description>
+        <![CDATA[<h1>线性代数-17.行列式及其性质</h1><p>作者：Yamabuki-Yachiyo（xxx@example.com）</p>
+        
+          线性代数-行列式及其性质
+        
+        <hr><p>本文2026-05-11首发于<a href='http://localhost:1313/'>少女发病记录</a>，最后修改于2026-05-11</p>]]>
+      </description>
+      
+        <category>线性代数</category>
+      
+    </item>
+    
+  </channel>
+</rss>
